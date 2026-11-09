@@ -1,8 +1,4 @@
-# ModifyGameBrickBreaker_108
-
-> **Tugas Praktikum Pemrograman GUI - Implementasi Object-Oriented Programming (OOP)**  
-> **Nama Repository:** `ModifyGameBrickBreaker_108`  
-> **NIM:** `...108`  
+# Modify Game Brick Breaker
 
 ---
 
